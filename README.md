@@ -8,8 +8,8 @@ This is a repository that I am using to save my study templates, there are my co
 3. Now it's your choice, you can open the file downloading it or using the Github URL.
    
 ## Technologies
-* Python 3
-* Google Colaboratory
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/> !<img src="https://github.com/WhiteCJbr/DeepLearning/assets/120740360/ffb8a19c-dab8-406f-a06d-73cbe9b04a74" width="40"/>
+
 
 Enjoy It !
 
